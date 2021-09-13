@@ -1,0 +1,4 @@
+#Mon Jul 05 22:54:16 IST 2021
+base.0=/Users/abhinav/AndroidStudioProjects/destini-challenge-completed/build/app/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

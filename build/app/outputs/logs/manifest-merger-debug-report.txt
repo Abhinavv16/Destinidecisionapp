@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/213266a50cb94247953b0d783d05083c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/7c8eb49aeae7d2f7c1aa1ecf2a67a445/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cb796d462ec5bb800060ebd3b36052cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2b521a87ed74ce05d00723293b37ecfd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/118c3031a1d6b8e2352dc70786ca5704/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6e269dcbd3922ca2324a745ce8d42036/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/699492bc1581d827ce7e938b520403f9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/4e3dbc3da2447d32482730f97cd6b985/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d3e18e56ca7d5896bf7fc39125846cb7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f70e7a8059a091df0a4702c0e5288abb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/2fe64acc4606af5143184d78c7e085f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/de6f05af16311ab3cf916ed133c8c24f/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c464817bbd80bbe95398cb11301b5e5b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:2:5-53
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6e269dcbd3922ca2324a745ce8d42036/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6e269dcbd3922ca2324a745ce8d42036/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/de6f05af16311ab3cf916ed133c8c24f/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/de6f05af16311ab3cf916ed133c8c24f/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6e269dcbd3922ca2324a745ce8d42036/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:icon
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#co.appbrewery.destinichallengestarting.MainActivity
+ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/213266a50cb94247953b0d783d05083c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/213266a50cb94247953b0d783d05083c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/7c8eb49aeae7d2f7c1aa1ecf2a67a445/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/7c8eb49aeae7d2f7c1aa1ecf2a67a445/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cb796d462ec5bb800060ebd3b36052cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cb796d462ec5bb800060ebd3b36052cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2b521a87ed74ce05d00723293b37ecfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2b521a87ed74ce05d00723293b37ecfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/118c3031a1d6b8e2352dc70786ca5704/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/118c3031a1d6b8e2352dc70786ca5704/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6e269dcbd3922ca2324a745ce8d42036/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6e269dcbd3922ca2324a745ce8d42036/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/699492bc1581d827ce7e938b520403f9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/699492bc1581d827ce7e938b520403f9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/4e3dbc3da2447d32482730f97cd6b985/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/4e3dbc3da2447d32482730f97cd6b985/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d3e18e56ca7d5896bf7fc39125846cb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d3e18e56ca7d5896bf7fc39125846cb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f70e7a8059a091df0a4702c0e5288abb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f70e7a8059a091df0a4702c0e5288abb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/2fe64acc4606af5143184d78c7e085f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/2fe64acc4606af5143184d78c7e085f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/de6f05af16311ab3cf916ed133c8c24f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/de6f05af16311ab3cf916ed133c8c24f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c464817bbd80bbe95398cb11301b5e5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/abhinav/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c464817bbd80bbe95398cb11301b5e5b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhinav/AndroidStudioProjects/destini-challenge-completed/android/app/src/main/AndroidManifest.xml
